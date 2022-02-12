@@ -1,0 +1,146 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  The contents of <string_view> are available only with C++17 or later.
+  The contents of <filesystem> are available only with C++17 or later.
+  Aimbot.cpp
+  The contents of <string_view> are available only with C++17 or later.
+  ESP.cpp
+  The contents of <string_view> are available only with C++17 or later.
+  Glow.cpp
+  The contents of <string_view> are available only with C++17 or later.
+  Healthbar.cpp
+  The contents of <string_view> are available only with C++17 or later.
+  NoRecoil.cpp
+  The contents of <string_view> are available only with C++17 or later.
+  Drawings.cpp
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(9,68): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(21,79): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(22,62): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(33,76): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(34,68): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(54,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(54,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(55,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(55,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(56,19): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(69,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(74,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(75,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(77,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\main_Files\SDK\Overlay\Rendering\Drawings.cpp(78,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Overlay.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  The contents of <string_view> are available only with C++17 or later.
+  Generating Code...
+imgui.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+Aimbot.obj : error LNK2005: "struct HWND__ * Globals::hWnd" (?hWnd@Globals@@3PEAUHWND__@@EA) already defined in main.obj
+Aimbot.obj : error LNK2005: "unsigned __int64 Globals::modBase" (?modBase@Globals@@3_KA) already defined in main.obj
+Aimbot.obj : error LNK2005: "void * Globals::processID" (?processID@Globals@@3PEAXEA) already defined in main.obj
+Aimbot.obj : error LNK2005: "int Globals::killKey" (?killKey@Globals@@3HA) already defined in main.obj
+Aimbot.obj : error LNK2005: "bool MenuSettings::espEnabled" (?espEnabled@MenuSettings@@3_NA) already defined in main.obj
+Aimbot.obj : error LNK2005: "bool MenuSettings::glowEnabled" (?glowEnabled@MenuSettings@@3_NA) already defined in main.obj
+Aimbot.obj : error LNK2005: "bool MenuSettings::ItemglowEnabled" (?ItemglowEnabled@MenuSettings@@3_NA) already defined in main.obj
+Aimbot.obj : error LNK2005: "bool MenuSettings::noRecoilEnabled" (?noRecoilEnabled@MenuSettings@@3_NA) already defined in main.obj
+Aimbot.obj : error LNK2005: "bool MenuSettings::aimbotEnabled" (?aimbotEnabled@MenuSettings@@3_NA) already defined in main.obj
+Aimbot.obj : error LNK2005: "int MenuSettings::aimbotSmoothness" (?aimbotSmoothness@MenuSettings@@3HA) already defined in main.obj
+Aimbot.obj : error LNK2005: "bool MenuSettings::healthbarEnabled" (?healthbarEnabled@MenuSettings@@3_NA) already defined in main.obj
+Aimbot.obj : error LNK2005: "bool MenuSettings::fovCircle" (?fovCircle@MenuSettings@@3_NA) already defined in main.obj
+Aimbot.obj : error LNK2005: "int MenuSettings::aimbotFOV" (?aimbotFOV@MenuSettings@@3HA) already defined in main.obj
+Aimbot.obj : error LNK2005: "bool MenuSettings::snaplinesEnabled" (?snaplinesEnabled@MenuSettings@@3_NA) already defined in main.obj
+Aimbot.obj : error LNK2005: "bool MenuSettings::thirdPerson" (?thirdPerson@MenuSettings@@3_NA) already defined in main.obj
+Aimbot.obj : error LNK2005: "int MenuSettings::aimbotKeyID" (?aimbotKeyID@MenuSettings@@3HA) already defined in main.obj
+Aimbot.obj : error LNK2005: "char const * * MenuSettings::aimbotKeys" (?aimbotKeys@MenuSettings@@3PAPEBDA) already defined in main.obj
+ESP.obj : error LNK2005: "struct HWND__ * Globals::hWnd" (?hWnd@Globals@@3PEAUHWND__@@EA) already defined in main.obj
+ESP.obj : error LNK2005: "unsigned __int64 Globals::modBase" (?modBase@Globals@@3_KA) already defined in main.obj
+ESP.obj : error LNK2005: "void * Globals::processID" (?processID@Globals@@3PEAXEA) already defined in main.obj
+ESP.obj : error LNK2005: "int Globals::killKey" (?killKey@Globals@@3HA) already defined in main.obj
+ESP.obj : error LNK2005: "bool MenuSettings::espEnabled" (?espEnabled@MenuSettings@@3_NA) already defined in main.obj
+ESP.obj : error LNK2005: "bool MenuSettings::glowEnabled" (?glowEnabled@MenuSettings@@3_NA) already defined in main.obj
+ESP.obj : error LNK2005: "bool MenuSettings::ItemglowEnabled" (?ItemglowEnabled@MenuSettings@@3_NA) already defined in main.obj
+ESP.obj : error LNK2005: "bool MenuSettings::noRecoilEnabled" (?noRecoilEnabled@MenuSettings@@3_NA) already defined in main.obj
+ESP.obj : error LNK2005: "bool MenuSettings::aimbotEnabled" (?aimbotEnabled@MenuSettings@@3_NA) already defined in main.obj
+ESP.obj : error LNK2005: "int MenuSettings::aimbotSmoothness" (?aimbotSmoothness@MenuSettings@@3HA) already defined in main.obj
+ESP.obj : error LNK2005: "bool MenuSettings::healthbarEnabled" (?healthbarEnabled@MenuSettings@@3_NA) already defined in main.obj
+ESP.obj : error LNK2005: "bool MenuSettings::fovCircle" (?fovCircle@MenuSettings@@3_NA) already defined in main.obj
+ESP.obj : error LNK2005: "int MenuSettings::aimbotFOV" (?aimbotFOV@MenuSettings@@3HA) already defined in main.obj
+ESP.obj : error LNK2005: "bool MenuSettings::snaplinesEnabled" (?snaplinesEnabled@MenuSettings@@3_NA) already defined in main.obj
+ESP.obj : error LNK2005: "bool MenuSettings::thirdPerson" (?thirdPerson@MenuSettings@@3_NA) already defined in main.obj
+ESP.obj : error LNK2005: "int MenuSettings::aimbotKeyID" (?aimbotKeyID@MenuSettings@@3HA) already defined in main.obj
+ESP.obj : error LNK2005: "char const * * MenuSettings::aimbotKeys" (?aimbotKeys@MenuSettings@@3PAPEBDA) already defined in main.obj
+Glow.obj : error LNK2005: "struct HWND__ * Globals::hWnd" (?hWnd@Globals@@3PEAUHWND__@@EA) already defined in main.obj
+Glow.obj : error LNK2005: "unsigned __int64 Globals::modBase" (?modBase@Globals@@3_KA) already defined in main.obj
+Glow.obj : error LNK2005: "void * Globals::processID" (?processID@Globals@@3PEAXEA) already defined in main.obj
+Glow.obj : error LNK2005: "int Globals::killKey" (?killKey@Globals@@3HA) already defined in main.obj
+Glow.obj : error LNK2005: "bool MenuSettings::espEnabled" (?espEnabled@MenuSettings@@3_NA) already defined in main.obj
+Glow.obj : error LNK2005: "bool MenuSettings::glowEnabled" (?glowEnabled@MenuSettings@@3_NA) already defined in main.obj
+Glow.obj : error LNK2005: "bool MenuSettings::ItemglowEnabled" (?ItemglowEnabled@MenuSettings@@3_NA) already defined in main.obj
+Glow.obj : error LNK2005: "bool MenuSettings::noRecoilEnabled" (?noRecoilEnabled@MenuSettings@@3_NA) already defined in main.obj
+Glow.obj : error LNK2005: "bool MenuSettings::aimbotEnabled" (?aimbotEnabled@MenuSettings@@3_NA) already defined in main.obj
+Glow.obj : error LNK2005: "int MenuSettings::aimbotSmoothness" (?aimbotSmoothness@MenuSettings@@3HA) already defined in main.obj
+Glow.obj : error LNK2005: "bool MenuSettings::healthbarEnabled" (?healthbarEnabled@MenuSettings@@3_NA) already defined in main.obj
+Glow.obj : error LNK2005: "bool MenuSettings::fovCircle" (?fovCircle@MenuSettings@@3_NA) already defined in main.obj
+Glow.obj : error LNK2005: "int MenuSettings::aimbotFOV" (?aimbotFOV@MenuSettings@@3HA) already defined in main.obj
+Glow.obj : error LNK2005: "bool MenuSettings::snaplinesEnabled" (?snaplinesEnabled@MenuSettings@@3_NA) already defined in main.obj
+Glow.obj : error LNK2005: "bool MenuSettings::thirdPerson" (?thirdPerson@MenuSettings@@3_NA) already defined in main.obj
+Glow.obj : error LNK2005: "int MenuSettings::aimbotKeyID" (?aimbotKeyID@MenuSettings@@3HA) already defined in main.obj
+Glow.obj : error LNK2005: "char const * * MenuSettings::aimbotKeys" (?aimbotKeys@MenuSettings@@3PAPEBDA) already defined in main.obj
+Healthbar.obj : error LNK2005: "struct HWND__ * Globals::hWnd" (?hWnd@Globals@@3PEAUHWND__@@EA) already defined in main.obj
+Healthbar.obj : error LNK2005: "unsigned __int64 Globals::modBase" (?modBase@Globals@@3_KA) already defined in main.obj
+Healthbar.obj : error LNK2005: "void * Globals::processID" (?processID@Globals@@3PEAXEA) already defined in main.obj
+Healthbar.obj : error LNK2005: "int Globals::killKey" (?killKey@Globals@@3HA) already defined in main.obj
+Healthbar.obj : error LNK2005: "bool MenuSettings::espEnabled" (?espEnabled@MenuSettings@@3_NA) already defined in main.obj
+Healthbar.obj : error LNK2005: "bool MenuSettings::glowEnabled" (?glowEnabled@MenuSettings@@3_NA) already defined in main.obj
+Healthbar.obj : error LNK2005: "bool MenuSettings::ItemglowEnabled" (?ItemglowEnabled@MenuSettings@@3_NA) already defined in main.obj
+Healthbar.obj : error LNK2005: "bool MenuSettings::noRecoilEnabled" (?noRecoilEnabled@MenuSettings@@3_NA) already defined in main.obj
+Healthbar.obj : error LNK2005: "bool MenuSettings::aimbotEnabled" (?aimbotEnabled@MenuSettings@@3_NA) already defined in main.obj
+Healthbar.obj : error LNK2005: "int MenuSettings::aimbotSmoothness" (?aimbotSmoothness@MenuSettings@@3HA) already defined in main.obj
+Healthbar.obj : error LNK2005: "bool MenuSettings::healthbarEnabled" (?healthbarEnabled@MenuSettings@@3_NA) already defined in main.obj
+Healthbar.obj : error LNK2005: "bool MenuSettings::fovCircle" (?fovCircle@MenuSettings@@3_NA) already defined in main.obj
+Healthbar.obj : error LNK2005: "int MenuSettings::aimbotFOV" (?aimbotFOV@MenuSettings@@3HA) already defined in main.obj
+Healthbar.obj : error LNK2005: "bool MenuSettings::snaplinesEnabled" (?snaplinesEnabled@MenuSettings@@3_NA) already defined in main.obj
+Healthbar.obj : error LNK2005: "bool MenuSettings::thirdPerson" (?thirdPerson@MenuSettings@@3_NA) already defined in main.obj
+Healthbar.obj : error LNK2005: "int MenuSettings::aimbotKeyID" (?aimbotKeyID@MenuSettings@@3HA) already defined in main.obj
+Healthbar.obj : error LNK2005: "char const * * MenuSettings::aimbotKeys" (?aimbotKeys@MenuSettings@@3PAPEBDA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "struct HWND__ * Globals::hWnd" (?hWnd@Globals@@3PEAUHWND__@@EA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "unsigned __int64 Globals::modBase" (?modBase@Globals@@3_KA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "void * Globals::processID" (?processID@Globals@@3PEAXEA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "int Globals::killKey" (?killKey@Globals@@3HA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "bool MenuSettings::espEnabled" (?espEnabled@MenuSettings@@3_NA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "bool MenuSettings::glowEnabled" (?glowEnabled@MenuSettings@@3_NA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "bool MenuSettings::ItemglowEnabled" (?ItemglowEnabled@MenuSettings@@3_NA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "bool MenuSettings::noRecoilEnabled" (?noRecoilEnabled@MenuSettings@@3_NA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "bool MenuSettings::aimbotEnabled" (?aimbotEnabled@MenuSettings@@3_NA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "int MenuSettings::aimbotSmoothness" (?aimbotSmoothness@MenuSettings@@3HA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "bool MenuSettings::healthbarEnabled" (?healthbarEnabled@MenuSettings@@3_NA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "bool MenuSettings::fovCircle" (?fovCircle@MenuSettings@@3_NA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "int MenuSettings::aimbotFOV" (?aimbotFOV@MenuSettings@@3HA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "bool MenuSettings::snaplinesEnabled" (?snaplinesEnabled@MenuSettings@@3_NA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "bool MenuSettings::thirdPerson" (?thirdPerson@MenuSettings@@3_NA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "int MenuSettings::aimbotKeyID" (?aimbotKeyID@MenuSettings@@3HA) already defined in main.obj
+NoRecoil.obj : error LNK2005: "char const * * MenuSettings::aimbotKeys" (?aimbotKeys@MenuSettings@@3PAPEBDA) already defined in main.obj
+Overlay.obj : error LNK2005: "unsigned __int64 __cdecl GetPid(wchar_t const *)" (?GetPid@@YA_KPEB_W@Z) already defined in main.obj
+Overlay.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl RandomString(int)" (?RandomString@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in main.obj
+Overlay.obj : error LNK2005: "struct HWND__ * Globals::hWnd" (?hWnd@Globals@@3PEAUHWND__@@EA) already defined in main.obj
+Overlay.obj : error LNK2005: "unsigned __int64 Globals::modBase" (?modBase@Globals@@3_KA) already defined in main.obj
+Overlay.obj : error LNK2005: "void * Globals::processID" (?processID@Globals@@3PEAXEA) already defined in main.obj
+Overlay.obj : error LNK2005: "int Globals::killKey" (?killKey@Globals@@3HA) already defined in main.obj
+Overlay.obj : error LNK2005: "bool MenuSettings::espEnabled" (?espEnabled@MenuSettings@@3_NA) already defined in main.obj
+Overlay.obj : error LNK2005: "bool MenuSettings::glowEnabled" (?glowEnabled@MenuSettings@@3_NA) already defined in main.obj
+Overlay.obj : error LNK2005: "bool MenuSettings::ItemglowEnabled" (?ItemglowEnabled@MenuSettings@@3_NA) already defined in main.obj
+Overlay.obj : error LNK2005: "bool MenuSettings::noRecoilEnabled" (?noRecoilEnabled@MenuSettings@@3_NA) already defined in main.obj
+Overlay.obj : error LNK2005: "bool MenuSettings::aimbotEnabled" (?aimbotEnabled@MenuSettings@@3_NA) already defined in main.obj
+Overlay.obj : error LNK2005: "int MenuSettings::aimbotSmoothness" (?aimbotSmoothness@MenuSettings@@3HA) already defined in main.obj
+Overlay.obj : error LNK2005: "bool MenuSettings::healthbarEnabled" (?healthbarEnabled@MenuSettings@@3_NA) already defined in main.obj
+Overlay.obj : error LNK2005: "bool MenuSettings::fovCircle" (?fovCircle@MenuSettings@@3_NA) already defined in main.obj
+Overlay.obj : error LNK2005: "int MenuSettings::aimbotFOV" (?aimbotFOV@MenuSettings@@3HA) already defined in main.obj
+Overlay.obj : error LNK2005: "bool MenuSettings::snaplinesEnabled" (?snaplinesEnabled@MenuSettings@@3_NA) already defined in main.obj
+Overlay.obj : error LNK2005: "bool MenuSettings::thirdPerson" (?thirdPerson@MenuSettings@@3_NA) already defined in main.obj
+Overlay.obj : error LNK2005: "int MenuSettings::aimbotKeyID" (?aimbotKeyID@MenuSettings@@3HA) already defined in main.obj
+Overlay.obj : error LNK2005: "char const * * MenuSettings::aimbotKeys" (?aimbotKeys@MenuSettings@@3PAPEBDA) already defined in main.obj
+C:\Users\james\Downloads\Apex-Legends-SDK-Remaster-main\Apex-Legends-SDK-Remaster-main\x64\Debug\Apex Legends SDK.exe : fatal error LNK1169: one or more multiply defined symbols found
